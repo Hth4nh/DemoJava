@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Ptb1 {
+public class Ngay_17_1_Ptb1 {
     public static void main(String[] args) {
         Scanner sc= new Scanner(System.in);
 
