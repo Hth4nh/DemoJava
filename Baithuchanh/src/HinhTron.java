@@ -7,7 +7,7 @@ public class HinhTron {
 	float dienTich;
 	
 	public void nhapBanKinh() {
-		System.out.println("Nhap ban kinh: ");
+		System.out.print("Nhap ban kinh: ");
 		Scanner sc = new Scanner(System.in);
 		banKinh = sc.nextFloat();
 		sc.close();
