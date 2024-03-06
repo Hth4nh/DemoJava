@@ -1,6 +1,7 @@
+package chuong2;
 import java.util.Scanner;
 
-public class Ngay_24_1_trang47 {
+public class Slide47 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 

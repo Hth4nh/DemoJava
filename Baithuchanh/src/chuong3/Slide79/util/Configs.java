@@ -1,4 +1,4 @@
-package Ngay_06_3_chuong3_trang79.util;
+package chuong3.Slide79.util;
 
 public class Configs {
     public static final int NHAN_VIEN_SEP = 1;

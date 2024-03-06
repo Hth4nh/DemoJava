@@ -1,4 +1,5 @@
-public class Ngay_24_1_trang55 {
+package chuong2;
+public class Slide55 {
     public static void main(String[] args) {
         System.out.println("Cac so chia het cho 5 tu 0 den 20 la: ");
         

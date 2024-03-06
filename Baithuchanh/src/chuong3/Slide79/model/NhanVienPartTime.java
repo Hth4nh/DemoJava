@@ -1,6 +1,6 @@
-package Ngay_06_3_chuong3_trang79.model;
+package chuong3.Slide79.model;
 
-import Ngay_06_3_chuong3_trang79.util.Configs;
+import chuong3.Slide79.util.Configs;
 
 public class NhanVienPartTime extends NhanVien {
     private int gioLamViec;

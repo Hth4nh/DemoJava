@@ -1,6 +1,7 @@
+package chuong2;
 import java.util.Scanner;
 
-public class Ngay_17_1_Ptb1 {
+public class Ptb1 {
     public static void main(String[] args) {
         Scanner sc= new Scanner(System.in);
 

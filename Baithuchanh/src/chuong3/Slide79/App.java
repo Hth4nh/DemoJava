@@ -1,8 +1,8 @@
-package Ngay_06_3_chuong3_trang79;
+package chuong3.Slide79;
 
-import Ngay_06_3_chuong3_trang79.model.NhanVienFullTime;
-import Ngay_06_3_chuong3_trang79.model.NhanVienPartTime;
-import Ngay_06_3_chuong3_trang79.util.Configs;
+import chuong3.Slide79.model.NhanVienFullTime;
+import chuong3.Slide79.model.NhanVienPartTime;
+import chuong3.Slide79.util.Configs;
 
 public class App {
     public static void main(String[] args) {

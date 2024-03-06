@@ -1,4 +1,4 @@
-package Ngay_06_3_chuong3_trang79.model;
+package chuong3.Slide79.model;
 
 public class NhanVien {
     protected String ten;

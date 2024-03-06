@@ -1,4 +1,5 @@
-public class Ngay_10_1_HelloWorld {
+package chuong2;
+public class HelloWorld {
     public static void main(String[] args) {
         System.out.println("Hello, World!");
     }
