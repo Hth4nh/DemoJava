@@ -1,10 +1,10 @@
-package chuong3.Slide79;
+package chuong3.Slide79.main;
 
 import chuong3.Slide79.model.NhanVienFullTime;
 import chuong3.Slide79.model.NhanVienPartTime;
 import chuong3.Slide79.util.Configs;
 
-public class App {
+public class MainClass {
     public static void main(String[] args) {
         NhanVienFullTime sep = new NhanVienFullTime("Nguyen Van Boss");
         sep.setLoaiChucVu(Configs.NHAN_VIEN_SEP);
