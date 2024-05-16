@@ -2,6 +2,8 @@ package chuong3.Slide54.shapes;
 
 import java.util.Scanner;
 
+@SuppressWarnings("resource")
+
 public class HinhChuNhat extends HinhHoc {
     public float dai;
     public float rong;

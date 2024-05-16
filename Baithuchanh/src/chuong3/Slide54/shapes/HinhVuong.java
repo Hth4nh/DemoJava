@@ -2,6 +2,8 @@ package chuong3.Slide54.shapes;
 
 import java.util.Scanner;
 
+@SuppressWarnings("resource")
+
 public class HinhVuong extends HinhChuNhat {
     public HinhVuong() {
         ten = "Hinh Vuong";

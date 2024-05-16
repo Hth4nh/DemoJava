@@ -2,6 +2,8 @@ package chuong3.Slide54.shapes;
 
 import java.util.Scanner;
 
+@SuppressWarnings("resource")
+
 public class HinhTru extends HinhTron {
     public float chieuCao;
 
